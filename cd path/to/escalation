@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Product Escalation System"
+git branch -M main
+git remote add origin https://github.com/Harathi-2/escalation-system.git
+git push -u origin main
